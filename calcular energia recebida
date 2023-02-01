@@ -1,0 +1,14 @@
+void main(){ 
+
+//Entrada de dados
+
+var energia = 100;
+
+//Processamento
+
+var energiarecebida = 12 - 100 - 50;
+
+//Saída
+
+print('$energia é igual à $energiarecebida');
+}
