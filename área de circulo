@@ -1,0 +1,16 @@
+void main(){
+  //Entrada
+  var area = 0;
+  
+  //Processamento
+  
+  var entrada = 3.14 * 4;
+  var entrada2 = 3.14 * 10128.4096;
+  var entrada3 = 3.14 * 22.500;
+  
+  //Saída
+  
+  print('$area é igual à $entrada');
+  print('$area é igual à $entrada2');
+  print('$area é igual à $entrada3');
+}
