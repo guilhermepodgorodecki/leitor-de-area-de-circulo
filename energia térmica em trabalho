@@ -1,0 +1,14 @@
+void main(){
+  
+  //Entrada
+  
+  var energiat = 0;
+  
+  //Processamento
+  
+  var energia = 12000 / 23000 * 100;
+  
+  //Saída
+  
+  print('$energiat é igual à $energia%');
+}
